@@ -10,7 +10,5 @@ Hi, I'm Son.
 ## Liên hệ
 
 - 📧 Email: thanhsonhoctap1255@gmail.com
-- 🔗 LinkedIn: [Profil LinkedIn của bạn]
-- 🌐 Website: [Nếu bạn có một trang web cá nhân]
 
 Chào mọi người và hy vọng có cơ hội làm quen và hợp tác với các bạn!
