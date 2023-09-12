@@ -2,13 +2,13 @@
 
 Hi, I'm Son.
 
-- 🎓 Tôi là sinh viên tại Trường Đại học Công Thương TPHCM.
-- 📚 Tôi đang theo học chuyên ngành Công Nghệ Thông Tin.
-- 🌟 Sở thích: Lập trình, Đọc sách, Chạy bộ, Chơi Guitar.
-- 🚀 Tôi đã tham gia vào các dự án nhỏ của riêng mình, chúng giúp tôi nắm vững kiến thức cơ bản về lập trình hơn, ứng dụng thư viện vào quá trình lập trình để tăng hiệu suất.
+- 🎓 I am a student at Ho Chi Minh City University of Economics and Finance.
+- 📚 I am majoring in Information Technology.
+- 🌟 Hobbies: Programming, Reading books, Running, Playing Guitar.
+- 🚀 I have participated in my own small projects, which have helped me solidify my fundamental programming knowledge and apply libraries to improve coding efficiency.
 
-## Liên hệ
+## Contact
 
 - 📧 Email: thanhsonhoctap1255@gmail.com
 
-Chào mọi người và hy vọng có cơ hội làm quen và hợp tác với các bạn!
+Hello everyone, and I hope to have the opportunity to get to know and collaborate with you!
